@@ -15,12 +15,16 @@ class Category(models.Model):
 
 
 class Product(models.Model):
+    NAME_CHOICES = [('sneakers', 'Кроссовки'),('Rubber boots', 'Резиновые сапоги'),('deck shoes', 'Топсайдеры'),]
+
     name = models.CharField(max_length=255, verbose_name='Название товара')
     description = models.TextField(blank=True, verbose_name='Описание товара')
     price = models.DecimalField(max_digits=10,decimal_places=2,verbose_name='Цена')
     stock = models.PositiveIntegerField(verbose_name='Количество на складе')
     category = models.ForeignKey(Category,on_delete=models.CASCADE,related_name='products',verbose_name='Категория')
     image = models.ImageField( upload_to='products/',blank=True,null=True,verbose_name='Изображение товара')
+
+    type = models.CharField(max_length=50,choices=NAME_CHOICES,default='Кроссовки',verbose_name='Тип товара',blank=False)
 
     class Meta:
         verbose_name = 'Товар'
