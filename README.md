@@ -8,7 +8,9 @@ Method order_by() ![{2A7D1A8D-CC6D-4EC6-89EE-841B650658D5}](https://github.com/u
 
 
 
-Values and values_list () ![{328894FE-C94D-4D79-9956-5CFDE07C29D5}](https://github.com/user-attachments/assets/87ba28f8-ee4e-4857-b583-bc2d5b8fe032) ![{B723C3DA-3EBA-4F3D-A28B-57A7EC760328}](https://github.com/user-attachments/assets/e1f29fcd-8e62-4ae2-92ae-a3d569479b87) ![{3EB9A12F-0A33-4FB7-9AC1-7CE04F2BFE06}](https://github.com/user-attachments/assets/7c4bb434-4915-4836-8972-c9c451f91d7c)
+Values and values_list () ![{328894FE-C94D-4D79-9956-5CFDE07C29D5}](https://github.com/user-attachments/assets/87ba28f8-ee4e-4857-b583-bc2d5b8fe032) 
+![{B723C3DA-3EBA-4F3D-A28B-57A7EC760328}](https://github.com/user-attachments/assets/e1f29fcd-8e62-4ae2-92ae-a3d569479b87) 
+![{3EB9A12F-0A33-4FB7-9AC1-7CE04F2BFE06}](https://github.com/user-attachments/assets/7c4bb434-4915-4836-8972-c9c451f91d7c)
 
 
 
