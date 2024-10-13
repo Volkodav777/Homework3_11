@@ -26,7 +26,7 @@ aggregate() Находим максимальную цену среди всех
 aggregate() Находим среднюю цену среди всех товаров ![{8F6A4AB8-6E9A-43E7-A4E0-EE26B58D67CF}](https://github.com/user-attachments/assets/82a2ab90-aeb5-473d-827d-a7b66449a821)
 aggregate() Находим общую стоимость всех заказов ![{261E9D1A-BAFE-45B5-B3AD-3924580563C4}](https://github.com/user-attachments/assets/cf728a6b-98fa-431a-ac37-41d67656c427)
 
-![{9E1E4843-0B8F-44E3-94D9-EC294E4DB920}](https://github.com/user-attachments/assets/346660a3-371f-44d1-b198-765e3fcfc50e)
-![{22B236FD-AD54-4E8E-9AD7-E9432450E616}](https://github.com/user-attachments/assets/ed8ba9ba-15a4-434d-b27a-395caf81bdde)
-![{BA5EC864-F86E-4B05-8D2C-21CD8B900F95}](https://github.com/user-attachments/assets/0aae7c68-dd0d-400c-a2f6-44211a5c7d41)
+annotate ![{9E1E4843-0B8F-44E3-94D9-EC294E4DB920}](https://github.com/user-attachments/assets/346660a3-371f-44d1-b198-765e3fcfc50e)
+annotate ![{22B236FD-AD54-4E8E-9AD7-E9432450E616}](https://github.com/user-attachments/assets/ed8ba9ba-15a4-434d-b27a-395caf81bdde)
+annotate ![{BA5EC864-F86E-4B05-8D2C-21CD8B900F95}](https://github.com/user-attachments/assets/0aae7c68-dd0d-400c-a2f6-44211a5c7d41)
 
