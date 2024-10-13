@@ -18,6 +18,6 @@ Values and values_list () ![{328894FE-C94D-4D79-9956-5CFDE07C29D5}](https://gith
 
 
 
-AND OR ![{C1EBE341-35B4-4E96-A75B-EFF258407937}](https://github.com/user-attachments/assets/2ffb703d-9fb6-41f0-9e24-1e016d8ec0cb) 
+AND OR Q объектов ![{C1EBE341-35B4-4E96-A75B-EFF258407937}](https://github.com/user-attachments/assets/2ffb703d-9fb6-41f0-9e24-1e016d8ec0cb) 
 ![{5C622EE1-3B9E-473E-863E-9CDE01E4B1EE}](https://github.com/user-attachments/assets/6bb51cc3-d0e1-4add-821d-25459bd111d0)
 
