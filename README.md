@@ -22,7 +22,7 @@ AND OR Q объектов ![{C1EBE341-35B4-4E96-A75B-EFF258407937}](https://gith
 ![{5C622EE1-3B9E-473E-863E-9CDE01E4B1EE}](https://github.com/user-attachments/assets/6bb51cc3-d0e1-4add-821d-25459bd111d0)
 
 
-aggregate() ![{F017C8BF-7AA4-4206-BED4-61ADE5450E9C}](https://github.com/user-attachments/assets/3b622488-057a-4bcc-9913-1d3988ebc7e3)
+aggregate() Находим максимальную цену среди всех товаров ![{F017C8BF-7AA4-4206-BED4-61ADE5450E9C}](https://github.com/user-attachments/assets/3b622488-057a-4bcc-9913-1d3988ebc7e3)
 aggregate() ![{8F6A4AB8-6E9A-43E7-A4E0-EE26B58D67CF}](https://github.com/user-attachments/assets/82a2ab90-aeb5-473d-827d-a7b66449a821)
 aggregate() ![{261E9D1A-BAFE-45B5-B3AD-3924580563C4}](https://github.com/user-attachments/assets/cf728a6b-98fa-431a-ac37-41d67656c427)
 
