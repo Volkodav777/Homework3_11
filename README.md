@@ -23,8 +23,8 @@ AND OR Q объектов ![{C1EBE341-35B4-4E96-A75B-EFF258407937}](https://gith
 
 
 aggregate() Находим максимальную цену среди всех товаров ![{F017C8BF-7AA4-4206-BED4-61ADE5450E9C}](https://github.com/user-attachments/assets/3b622488-057a-4bcc-9913-1d3988ebc7e3)
-aggregate() ![{8F6A4AB8-6E9A-43E7-A4E0-EE26B58D67CF}](https://github.com/user-attachments/assets/82a2ab90-aeb5-473d-827d-a7b66449a821)
-aggregate() ![{261E9D1A-BAFE-45B5-B3AD-3924580563C4}](https://github.com/user-attachments/assets/cf728a6b-98fa-431a-ac37-41d67656c427)
+aggregate() Находим среднюю цену среди всех товаров ![{8F6A4AB8-6E9A-43E7-A4E0-EE26B58D67CF}](https://github.com/user-attachments/assets/82a2ab90-aeb5-473d-827d-a7b66449a821)
+aggregate() Находим общую стоимость всех заказов ![{261E9D1A-BAFE-45B5-B3AD-3924580563C4}](https://github.com/user-attachments/assets/cf728a6b-98fa-431a-ac37-41d67656c427)
 
 ![{9E1E4843-0B8F-44E3-94D9-EC294E4DB920}](https://github.com/user-attachments/assets/346660a3-371f-44d1-b198-765e3fcfc50e)
 ![{22B236FD-AD54-4E8E-9AD7-E9432450E616}](https://github.com/user-attachments/assets/ed8ba9ba-15a4-434d-b27a-395caf81bdde)
