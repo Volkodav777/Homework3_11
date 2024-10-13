@@ -21,3 +21,12 @@ Values and values_list () ![{328894FE-C94D-4D79-9956-5CFDE07C29D5}](https://gith
 AND OR Q объектов ![{C1EBE341-35B4-4E96-A75B-EFF258407937}](https://github.com/user-attachments/assets/2ffb703d-9fb6-41f0-9e24-1e016d8ec0cb) 
 ![{5C622EE1-3B9E-473E-863E-9CDE01E4B1EE}](https://github.com/user-attachments/assets/6bb51cc3-d0e1-4add-821d-25459bd111d0)
 
+
+MAX ![{F017C8BF-7AA4-4206-BED4-61ADE5450E9C}](https://github.com/user-attachments/assets/3b622488-057a-4bcc-9913-1d3988ebc7e3)
+AVG ![{8F6A4AB8-6E9A-43E7-A4E0-EE26B58D67CF}](https://github.com/user-attachments/assets/82a2ab90-aeb5-473d-827d-a7b66449a821)
+SUM ![{261E9D1A-BAFE-45B5-B3AD-3924580563C4}](https://github.com/user-attachments/assets/cf728a6b-98fa-431a-ac37-41d67656c427)
+
+![{9E1E4843-0B8F-44E3-94D9-EC294E4DB920}](https://github.com/user-attachments/assets/346660a3-371f-44d1-b198-765e3fcfc50e)
+![{22B236FD-AD54-4E8E-9AD7-E9432450E616}](https://github.com/user-attachments/assets/ed8ba9ba-15a4-434d-b27a-395caf81bdde)
+![{BA5EC864-F86E-4B05-8D2C-21CD8B900F95}](https://github.com/user-attachments/assets/0aae7c68-dd0d-400c-a2f6-44211a5c7d41)
+
