@@ -1,0 +1,22 @@
+{% extends 'base.html' %}
+
+{% block title %}Список продуктов{% endblock %}
+
+{% block content %}
+<h1>Список продуктов</h1>
+
+{% if products %}
+    <ul>
+    {% for product in products %}
+        <li>
+            <a href="{% url 'product_detail' product.pk %}">{{ product.name|truncatechars:20 }}</a> 
+            (Цена: {{ product.price|default:"Нет цены" }}, Количество: {{ product.stock }})
+        </li>
+    {% endfor %}
+    </ul>
+    <p>Всего продуктов: {{ products|length }}</p>
+{% else %}
+    <p>Нет доступных продуктов.</p>
+{% endif %}
+
+{% endblock %}

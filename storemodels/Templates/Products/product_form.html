@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block title %}Создание/Редактирование продукта{% endblock %}
+
+{% block content %}
+<h1>{% if product %}Редактирование{% else %}Создание{% endif %} продукта</h1>
+
+<form method="POST" enctype="multipart/form-data">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <button type="submit">Сохранить</button>
+</form>
+
+<a href="{% url 'product_list' %}">Назад к списку</a>
+{% endblock %}
