@@ -3,13 +3,17 @@ from django.views import View
 from django.views.generic import TemplateView, ListView, DetailView, UpdateView, DeleteView, CreateView
 from django.urls import reverse_lazy
 from .models import Product
+from django_filters.views import FilterView
+from storemodels import filters
 
 # Create your views here.
-class ProductListView(ListView):
+class ProductListView(FilterView):
     model = Product
     template_name = 'products/product_list.html'
     context_object_name = 'products'
     paginate_by = 10
+    filterset_class = filters.Product_filter
+
 
 
 class ProductDetailView(DetailView):

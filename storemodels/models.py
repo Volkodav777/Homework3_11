@@ -16,7 +16,8 @@ class Category(models.Model):
 
 class Product(models.Model):
     NAME_CHOICES = [('sneakers', 'Кроссовки'),('Rubber boots', 'Резиновые сапоги'),('deck shoes', 'Топсайдеры'),
-                    ('Hat', 'Шляпы')]
+                    ('Hat', 'Шляпы'), ('Accessories', 'Аксессуары'), ('trinket', 'Безделушки'), ('lingerie', 'нижнее белье'),
+                    ('shoes', 'Обувь')]
 
     name = models.CharField(max_length=255, verbose_name='Название товара')
     description = models.TextField(blank=True, verbose_name='Описание товара')
