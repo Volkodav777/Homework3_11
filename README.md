@@ -31,3 +31,7 @@ annotate ![{22B236FD-AD54-4E8E-9AD7-E9432450E616}](https://github.com/user-attac
 annotate ![{BA5EC864-F86E-4B05-8D2C-21CD8B900F95}](https://github.com/user-attachments/assets/0aae7c68-dd0d-400c-a2f6-44211a5c7d41)
 
 СКРИНШОТ ФИЛЬТРОВ ДЗ (СВОИ КАСТОМНЫЙ ФИЛЬТР СОРТИРОВКЕ ПО ЦЕНЕ) ![{D2C2E34E-264F-4C8B-A213-1A586AEF7C5C}](https://github.com/user-attachments/assets/891bd211-7863-4578-a478-5f1f0e0fd45e)
+
+
+СКРИНШОТ ТЕСТОВ ДЗ 7
+![image](https://github.com/user-attachments/assets/42260a2c-776f-4f96-aebc-be20e6126bc6)
